@@ -1,6 +1,7 @@
 # Introduction 
 Welcome to GLMPS! Discover new music with the power of image processing. Preview tracks of an album just by taking a picture. 
 
+
 ![demo](/demo.mp4)
 
 # Why GLMPS?
